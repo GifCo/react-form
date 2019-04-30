@@ -1,7 +1,7 @@
 {
   "name": "@gifco/react-form",
   "version": "1.0.0",
-  "description": "Form and input components for an React app using hooks.\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C 16.8 \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D>16.8 using hooks.\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[2~app using hooks.",
+  "description": "Form and input components for an React app using hooks",
   "main": "./build/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
