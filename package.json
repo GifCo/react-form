@@ -1,6 +1,6 @@
 {
   "name": "@gifco/react-form",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Form and input components for an React app using hooks",
   "main": "./build/index.js",
   "scripts": {
