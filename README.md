@@ -1,4 +1,4 @@
-# React-Form
+# React-Form ![npm](https://img.shields.io/npm/v/@gifco/react-form.svg)
 
 A small simple Form plus Input components for React using hooks.
 
